@@ -1,3 +1,8 @@
+<div align="center">
+  </a>
+
+<br>
+
 <h1 align="center">Hi i'm <strong><em>Luc</em></strong> and i'm <strong><em>18</em></strong> years old.</h1>
 
 <p align="left">> 💡 Always like learning new things<p>
