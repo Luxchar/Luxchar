@@ -61,20 +61,3 @@
 If you'd like to reach out or if you have any question you can reach me on discord <span style="color:#5858FA">Lux@4518</span>.
 
 _You can go take a look at my projects right [here](https://github.com/Luxchar?tab=repositories)_ !
-
-<!-- MARKDOWN LINKS & IMAGES -->
-
-[repos-number]: https://github.com/Luxchar/public_repos
-[contributors-shield]: https://img.shields.io/github/contributors/Luxchar/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/Luxchar/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Luxchar/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/Luxchar/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/Luxchar/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/Luxchar/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Luxchar/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/Luxchar/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/Luxchar/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/Luxchar/repo_name/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
