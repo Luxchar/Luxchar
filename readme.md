@@ -8,14 +8,14 @@
 <p align="left">> 💡 Always like learning new things<p>
 <p align="left">> 🇫🇷🇺🇸 Im French but i speak english too !<p>
 <p align="left">> 🏫 <span style="color:#BDBDBD">Student</span> At 
-<span style="color:#848484"> [Paris Ynov Campus](https://www.ynov-paris.com/). </span>
+https://www.ynov-paris.com
 <span style="color:#BDBDBD"><em>(1st year)</em></span> <p>
 <p align="left">> 🤷  Sports, Music, Gardening, Cooking<p>
 <br>
 <br>
-
+  
 # Knowledge
-
+  
 ### Langages
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
@@ -46,7 +46,6 @@
 
 # Stats
 
-</h2>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Luxchar&show_icons=true&theme=dark&line_height=27&hide_border=true">
 </p>
@@ -56,8 +55,9 @@
 <br>
 <br>
 
-# Contact
+# Contacts
 
 If you'd like to reach out or if you have any question you can reach me on discord <span style="color:#5858FA">Lux@4518</span>.
 
 _You can go take a look at my projects right [here](https://github.com/Luxchar?tab=repositories)_ !
+[Paris Ynov Campus](https://www.ynov-paris.com/)
