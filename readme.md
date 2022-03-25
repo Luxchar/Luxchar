@@ -8,7 +8,7 @@
 <p align="left">> 💡 Always like learning new things<p>
 <p align="left">> 🇫🇷🇺🇸 Im French but i speak english too !<p>
 <p align="left">> 🏫 <span style="color:#BDBDBD">Student</span> At 
-<span style="color:#848484"> Paris Ynov Campus</span>
+<span style="color:#848484"> [Paris Ynov Campus](https://www.ynov-paris.com/)</span>
 <span style="color:#BDBDBD"><em>(1st year)</em></span> <p>
 <p align="left">> 🤷  Sports, Music, Gardening, Cooking<p>
 <br>
