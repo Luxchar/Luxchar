@@ -65,4 +65,3 @@ https://www.ynov-paris.com
 If you'd like to reach out or if you have any question you can reach me on discord <span style="color:#5858FA">Lux@4518</span>.
 
 _You can go take a look at my projects right [here](https://github.com/Luxchar?tab=repositories)_ !
-[Paris Ynov Campus](https://www.ynov-paris.com/)
