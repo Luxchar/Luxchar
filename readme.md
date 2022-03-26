@@ -12,7 +12,6 @@ https://www.ynov-paris.com
 <span style="color:#BDBDBD"><em>(1st year)</em></span> <p>
 <p align="left">> 🤷  Sports, Music, Gardening, Cooking<p>
 <br>
-<br>
   
 # Knowledge
   
@@ -45,14 +44,20 @@ https://www.ynov-paris.com
 <br>
 
 # Stats
-
+  
+ <!-- its an option
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Luxchar&show_icons=true&theme=dark&line_height=27&hide_border=true">
 </p>
+-->
+  
 <p align = "center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luxchar&show_icons=true&locale=en&layout=compact&theme=dark&line_height=0&hide_border=true"/>
 </p>
-<br>
+<p align = "center">
+<img title="Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luxchar&layout=compact" width="40%" />
+<img title="Statistics" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Luxchar&compact=True" width="40%"/>
+</p>
 <br>
 
 # Contacts
