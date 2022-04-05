@@ -6,7 +6,7 @@
 <h1 align="center">Hi i'm <strong><em>Luc</em></strong> and i'm <strong><em>18</em></strong> years old.</h1>
 
 <p align="left">> 💡 Always like learning new things<p>
-<p align="left">> 🇫🇷🇺🇸 Im French but i speak english too !<p>
+<p align="left">> 🇫🇷 French but i also 🇺🇸 Speak english <p>
 <p align="left">> 🏫 <span style="color:#BDBDBD">Student</span> At 
 https://www.ynov-paris.com
 <span style="color:#BDBDBD"><em>(1st year)</em></span> <p>
