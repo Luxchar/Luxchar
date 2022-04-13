@@ -3,7 +3,7 @@
 
 <br>
 
-<h1 align="center">Hi i'm <strong><em>Luc</em></strong> and i'm <strong><em>18</em></strong> years old.</h1>
+<h1 align="center">Hi i'm Luc and i'm 18 years old.</h1>
 
 <p align="left">> 💡 Always like learning new things<p>
 <p align="left">> 🇫🇷 French but i also 🇺🇸 Speak english <p>
