@@ -5,7 +5,6 @@
 <p align="left">> 🏫 <span style="color:#BDBDBD">Student</span> At 
 https://www.ynov-paris.com
 <span style="color:#BDBDBD"><em>(2nd year)</em></span> <p>
-<p align="left">> 🤷  Sports, Music, Gardening, Cooking..<p>
 
 # Stack
 
