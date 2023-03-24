@@ -1,7 +1,7 @@
 <div align="center">
   </a>
 
-<h1 align="center">🇫🇷🇺🇸 Luc, 19 </h1>
+<h1 align="center">🇫🇷🇺🇸 Luc</h1>
 
 
 <p align="left"> > 🔭 I’m currently working on Revochat (github.com/revochat)</p>
