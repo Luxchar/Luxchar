@@ -1,15 +1,11 @@
 <div align="center">
   </a>
 
-<h1 align="center">🇫🇷🇺🇸 Luc</h1>
+## 
+<p align="left"> 📊 Working Freelance as Data Scientist at TotalEnergies </p>
+<p align="left"> 🔭 I’m currently working on Revochat (github.com/revochat)</p>
 
-
-<p align="left"> > 🔭 I’m currently working on Revochat (github.com/revochat)</p>
-<p align="left">> 🏫 <span style="color:#BDBDBD">Student</span> At 
-https://www.ynov-paris.com
-<span style="color:#BDBDBD"><em>(2nd year)</em></span> <p>
-
-# Main Stack
+## 
 ### Dev
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
@@ -55,7 +51,7 @@ https://www.ynov-paris.com
 <br>
 <br>
 
-# Stats
+## Stats
   
  <!-- its an option
 <p align = "center">
@@ -73,10 +69,8 @@ https://www.ynov-paris.com
 </p>
 -->
 
-# Contact
+## Contact
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
-If you'd like to reach out here's my discord <span style="color:#5858FA">Lux@4518</span>.
+<a href="https://linkedin.com/in/luc-charlopeau"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 _More projects right [here](https://github.com/Luxchar?tab=repositories)_ !
