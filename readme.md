@@ -2,7 +2,7 @@
   </a>
 
 ## 
-<p align="left"> 📊 Working Freelance as Data Scientist at TotalEnergies </p>
+<p align="left"> 📊 Working as Data Scientist at TotalEnergies </p>
 <p align="left"> 🔭 I’m currently working on Revochat (github.com/revochat)</p>
 
 ## 
