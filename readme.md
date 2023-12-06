@@ -3,7 +3,7 @@
 
 ## 
 <p> 📊 Working as Data Scientist at TotalEnergies </p>
-<p> 🔭 I’m currently working on [Revochat](github.com/revochat)</p>
+<p> 🔭 I’m currently working on Revochat (github.com/revochat)</p>
 
 ## Stats
   
