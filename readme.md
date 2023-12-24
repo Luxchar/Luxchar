@@ -22,9 +22,3 @@
 <img title="Statistics" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Luxchar&compact=True" width="40%"/>
 </p>
 -->
-
-## Contact
-
-<a href="https://linkedin.com/in/luc-charlopeau"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-_More projects right [here](https://github.com/Luxchar?tab=repositories)_ !
