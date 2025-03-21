@@ -2,7 +2,7 @@
   </a>
 
 ## 
-<p> 📊 Working as Data Scientist at TotalEnergies </p>
+<p> 📊 Working as Software Engineer at TotalEnergies </p>
 
 ## Stats
   
